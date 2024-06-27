@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome to Awatramani Lab Github Page! 
+## Please find code related to published work from our lab here 
+
 
 <!--
 **AwatramaniLab/AwatramaniLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
